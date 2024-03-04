@@ -61,14 +61,11 @@ main h1{
     color: var(--colorDarkCharcoal);
 }
 
-h3{
+h2{
     color: var(--colorNutmeg);
     font-family: 'Young Serif';
 }
 
-div{
-
-}
 
 .preparation{
     background: var(--colorRoseWhite);
